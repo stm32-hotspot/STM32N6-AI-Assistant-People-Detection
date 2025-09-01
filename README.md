@@ -1,0 +1,1 @@
+# STM32N6-AI-Assistant-People-Detection
